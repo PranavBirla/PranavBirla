@@ -2,98 +2,58 @@
 
 ### Full-Stack Developer · C++ & DSA Learner · 3D Web Enthusiast
 
-I'm a **B.Tech CSE student and full-stack developer** who enjoys turning ideas into real, usable products.
-
-I work mainly with **React, Node.js, Express, MongoDB and JavaScript**, while currently going deeper into **C++, Data Structures & Algorithms, backend engineering and software architecture**.
-
-I also love experimenting with **3D and cinematic web experiences** using Three.js and React Three Fiber.
+I build **full-stack applications, SaaS products, APIs and interactive 3D experiences**.
+Currently going deeper into **C++, DSA, backend engineering and system design**.
 
 ---
 
-## 🧰 Tech Stack
+## ⚡ Tech Stack
 
-### Languages
-
-
-
-
-\
-
-### Frontend
-
-
-
-\
-
-### Backend & Database
-
-
-
-
-\
-
-### 3D & Creative Web
-
-
-
-\
-
-### Tools & Deployment
-
-
-
-
-
-\
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square\&logo=threedotjs\&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square\&logo=greensock\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
 
 ---
 
-## 🚀 Things I Build
+## 🚀 Featured Projects
 
-* **Full-stack web applications** with React, Node.js, Express and MongoDB
-* **REST APIs** and backend systems
-* Authentication & authorization systems
-* SaaS products and booking platforms
-* Admin dashboards and analytics
-* Interactive maps and location-based applications
-* **3D / cinematic websites** with Three.js, R3F and GSAP
-* Discord bots and community tools
+**🟠 TLC Vault**
+Personal code-storage platform built under *The Last Commit*.
+`React · Node.js · Express · MongoDB`
 
----
+**📅 Apoint**
+Appointment & availability booking SaaS.
+`React · Node.js · Express · MongoDB`
 
-## 🔥 Featured Projects
+**⚡ PlugBook**
+EV charging station & slot booking platform.
+`React · Node.js · MongoDB · Leaflet`
 
-### 🟠 TLC Vault
-
-A personal code-storage platform built under **The Last Commit** for accessing practiced code from college lab computers.
-
-**React · Node.js · Express · MongoDB · JWT · Vercel · Render**
-
-### 📅 Apoint
-
-An appointment-booking SaaS connecting users with professionals through availability and time-slot based booking.
-
-**React · Node.js · Express · MongoDB · JWT**
-
-### ⚡ PlugBook
-
-An EV charging-slot booking platform with location-based station discovery.
-
-**React · Node.js · MongoDB · Leaflet**
-
-### 🎮 The Last Commit
-
+**🎮 The Last Commit Bot**
 A developer community project featuring a Discord bot with progress tracking, XP and leaderboard functionality.
-
-**Node.js · Discord.js**
-
----
-
-## 📊 GitHub
-
-<p align="center">   <img src="https://github-readme-stats.vercel.app/api?username=PranavBirla&show_icons=true&theme=transparent&hide_border=true" height="165"/>   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBirla&theme=transparent&hide_border=true" height="165"/> </p>
+`Node.js · Discord.js`
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PranavBirla&show_icons=true&theme=transparent&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBirla&theme=transparent&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <i>Build. Break. Learn. Repeat.</i>
+</p>
 
 ## 🤝 Let's Connect
 

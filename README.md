@@ -129,8 +129,8 @@ My current goal is to move beyond simply **building applications** and develop a
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PranavBirla&show_icons=true&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBirla&theme=transparent&hide_border=true" height="165"/>
 </p>
 
 ---

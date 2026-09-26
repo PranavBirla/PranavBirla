@@ -81,11 +81,17 @@ An EV charging-slot booking platform with location-based station discovery.
 
 **React · Node.js · MongoDB · Leaflet**
 
+### 🎮 The Last Commit
+
+A developer community project featuring a Discord bot with progress tracking, XP and leaderboard functionality.
+
+**Node.js · Discord.js**
+
+---
 
 ## 📊 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranavBirla&show_icons=true&theme=transparent&hide_border=true" height="165"/>   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBirla&theme=transparent&hide_border=true" height="165"/> </p>
+<p align="center">   <img src="https://github-readme-stats.vercel.app/api?username=PranavBirla&show_icons=true&theme=transparent&hide_border=true" height="165"/>   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBirla&theme=transparent&hide_border=true" height="165"/> </p>
 
 ---
 
@@ -93,11 +99,9 @@ An EV charging-slot booking platform with location-based station discovery.
 
 I'm always interested in **building, learning, collaborating and discussing technology**.
 
-<p align="center">
-  <a href="https://github.com/PranavBirla">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">   <a href="https://github.com/PranavBirla">     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/pranav-birla-849362377">
+  <a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/pranav-birla-849362377)[pranav-birla-849362377](https://www.linkedin.com/in/pranav-birla-849362377)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
